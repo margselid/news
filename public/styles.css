@@ -1,0 +1,19 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    }
+
+    h1 {
+    font-family: 'Quicksand', sans-serif;
+    color: pink;
+    }
+
+    h2, h3, h4, h5, h6 {
+    font-family: 'Quicksand', sans-serif;
+    color: green;
+    }
+    
+.jumbotron {
+        background-color: blue;
+        height: 150px;
+
+    }
